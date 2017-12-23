@@ -15,3 +15,6 @@ which in turn follows the following logic:
   regardless of how much durability that is.
   
 LICENSE: LGPLv3.
+
+The icon for the moss is a recolour of the Mending Moss icon from TCon, the latter
+being under the MIT license.
