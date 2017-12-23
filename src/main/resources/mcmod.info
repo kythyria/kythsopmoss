@@ -1,0 +1,13 @@
+[
+{
+  "modid": "kythsopmoss",
+  "name": "Kyth's Regenerative Moss",
+  "description": "Tinker's Construct nerfed all the regenerative effects on grounds of being overpowered. This rectifies that somewhat.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "authorList": ["Kythyria"],
+  "useDependencyInformation": true,
+  "requiredMods": ["tconstruct"],
+  "dependencies": ["tconstruct"]
+}
+]

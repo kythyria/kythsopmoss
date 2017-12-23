@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RDR",
+        "CMC",
+        "CKC"
+    ],
+    "key": {
+        "M": {
+            "item": "tconstruct:materials",
+            "data": 19
+        },
+        "R": {
+            "item": "minecraft:redstone_torch"
+        },
+        "D": {
+            "type": "forge:ore_dict",
+            "ore": "gemDiamond"
+        },
+        "C": {
+            "item": "minecraft:coal",
+            "data": 0
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    "result": {
+        "item": "kythsopmoss:overpowered_moss",
+        "count": 1
+    }
+}
